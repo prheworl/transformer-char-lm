@@ -6,3 +6,17 @@
 ```bash
 pip install -e .
 pip install -r requirements.txt
+```
+
+# 运行baseline
+
+```bash
+python -m experiments.run_experiment --config experiments/configs/baseline.yaml
+```
+
+# 运行消融
+
+```bash
+set -e
+python -m experiments.run_ablation
+```
