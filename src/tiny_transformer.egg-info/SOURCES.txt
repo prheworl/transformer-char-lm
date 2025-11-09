@@ -1,0 +1,12 @@
+pyproject.toml
+src/tiny_transformer/__init__.py
+src/tiny_transformer/data.py
+src/tiny_transformer/engine.py
+src/tiny_transformer/model.py
+src/tiny_transformer/plotting.py
+src/tiny_transformer/utils.py
+src/tiny_transformer.egg-info/PKG-INFO
+src/tiny_transformer.egg-info/SOURCES.txt
+src/tiny_transformer.egg-info/dependency_links.txt
+src/tiny_transformer.egg-info/requires.txt
+src/tiny_transformer.egg-info/top_level.txt

@@ -1,0 +1,15 @@
+[project]
+name = "tiny-transformer"
+version = "0.1.0"
+description = "Character-level Transformer LM with ablations"
+requires-python = ">=3.10"
+dependencies = [
+    "torch>=2.1",
+    "numpy",
+    "tqdm",
+    "pyyaml",
+    "matplotlib",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
